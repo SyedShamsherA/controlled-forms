@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/controlled-forms/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/controlled-forms/static/js/main.077a833b.chunk.js",
+    "main.js.map": "/controlled-forms/static/js/main.077a833b.chunk.js.map",
+    "runtime-main.js": "/controlled-forms/static/js/runtime-main.4c403098.js",
+    "runtime-main.js.map": "/controlled-forms/static/js/runtime-main.4c403098.js.map",
+    "static/js/2.8b4d4da8.chunk.js": "/controlled-forms/static/js/2.8b4d4da8.chunk.js",
+    "static/js/2.8b4d4da8.chunk.js.map": "/controlled-forms/static/js/2.8b4d4da8.chunk.js.map",
+    "static/js/3.b6484d86.chunk.js": "/controlled-forms/static/js/3.b6484d86.chunk.js",
+    "static/js/3.b6484d86.chunk.js.map": "/controlled-forms/static/js/3.b6484d86.chunk.js.map",
+    "index.html": "/controlled-forms/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/controlled-forms/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8b4d4da8.chunk.js.LICENSE.txt": "/controlled-forms/static/js/2.8b4d4da8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c403098.js",
+    "static/js/2.8b4d4da8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.077a833b.chunk.js"
+  ]
+}
